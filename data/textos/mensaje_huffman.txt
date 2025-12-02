@@ -1,0 +1,2 @@
+Los algoritmos de compresion como Huffman permiten reducir el tamano de los archivos de texto al asignar codigos mas cortos a los caracteres mas frecuentes.
+Este mensaje servira para probar la construccion del arbol de Huffman y la generacion de los codigos binarios.
