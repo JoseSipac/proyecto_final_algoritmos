@@ -1,3 +1,9 @@
+
+from src.prim import ejecutar_prim
+from src.kruskal import ejecutar_kruskal
+from src.dijkstral import ejecutar_dijkstra
+from src.huffman import ejecutar_huffman
+
 def mostrar_menu(opciones):
     print('Seleccione una opción:')
     for clave in sorted(opciones):
@@ -38,17 +44,19 @@ def menu_principal():
 def accion1():
     print('\n[PRIM] Ejecutando algoritmo de Prim...')
 
+    ejecutar_prim()
 
 def accion2():
     print('\n[KRUSKAL] Ejecutando algoritmo de Kruskal...')
-
+    ejecutar_kruskal()
 
 def accion3():
     print('\n Ejecutando algoritmo de Dijkstra...')
+    ejecutar_dijkstra()
 
 def accion4():
     print('\n Ejecutando algoritmo de Huffman...')
-
+    ejecutar_huffman()
 
 def salir():
     print('Saliendo')
