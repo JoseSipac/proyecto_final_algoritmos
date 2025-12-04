@@ -242,3 +242,5 @@ El algoritmo de Huffman permitio relacionar estructuras de datos con aplicacione
 El uso de Gitflow ayudo a organizar el trabajo en ramas claras, facilitando el control de versiones y la integracion de cambios.
 
 Combinar teoria, implementacion en codigo, generacion de imagenes y un flujo de versionamiento ordenado dio como resultado un proyecto mas completo, documentado y facil de explicar academicamente.
+
+Version: 1.0.0
