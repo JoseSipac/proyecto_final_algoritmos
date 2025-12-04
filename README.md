@@ -8,7 +8,7 @@
 **Proyecto:** Implementacion de algoritmos de Prim, Kruskal, Dijkstra, Huffman
 **Estudiante:** Jose Geovany Sipac Pixtun 
 **Carnet:** 202301480 
-**Fecha:** 03/12/2025
+**Fecha:** 03-12-2025
 
 ---
 
