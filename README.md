@@ -6,7 +6,7 @@
 **Facultad:** Ingenieria
 **Curso:** Analisis de Algoritmo
 **Proyecto:** Implementacion de algoritmos de Prim, Kruskal, Dijkstra, Huffman
-**Estudiante:** Jose Geovany Sipac Pixtun 
+**Estudiante:** Jose Alberto Toc
 **Carnet:** 202301480 
 **Fecha:** 03/12/2025
 
